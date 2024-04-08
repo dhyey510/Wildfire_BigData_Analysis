@@ -1,4 +1,4 @@
-# Wildfire Big Data Analysis Project
+# Wildfire Big Data Analytics Project
 
 ## Introduction
 
